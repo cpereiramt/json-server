@@ -1,0 +1,27 @@
+{
+    "records": [
+        {   "id":1,
+            "CEP": "88037000",
+            "Numero": "546-598",
+            "latitute": "-27.599791",
+            "longitude": "-48.511084",
+            "residentes":"5"
+        },
+
+        {   "id":2,
+            "CEP": "31365000",
+            "Numero": "S/N",
+            "latitute": "-19.868132",
+            "longitude": "-43.996798",
+            "residentes":"3"
+        },
+        {   "id":3,
+            "CEP": "78015200",
+            "Numero": "2-96",
+            "latitute": "-15.606112",
+            "longitude": "-56.098707",
+            "residentes":"3"
+        }
+
+    ]
+}
