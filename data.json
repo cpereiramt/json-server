@@ -20,8 +20,22 @@
             "Numero": "2-96",
             "latitute": "-15.606112",
             "longitude": "-56.098707",
+            "residentes":"5"
+        },
+        {   "id":4,
+            "CEP": "78015200",
+            "Numero": "339",
+            "latitute": "-15.618303",
+            "longitude": "-56.087481",
+            "residentes":"7"
+        },
+        {   "id":5,
+            "CEP": "78065390",
+            "Numero": "54",
+            "latitute": "-15.619813",
+            "longitude": "-56.090017",
             "residentes":"3"
         }
-
+        
     ]
 }
